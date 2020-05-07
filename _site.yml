@@ -1,0 +1,35 @@
+name: "Wahengbam Bigyananda Meitei"
+output_dir: "."
+
+navbar:
+  title: "W. B. Meitei"
+  colour: blue
+
+  left:
+    - text: "Publication"
+      href: research.html
+    - text: "Conference"
+      href: conference.html
+    - text: "Workshop"
+      href: workshop.html
+    - text: "BStat Blog"
+      href: blog.html
+      
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-whatsapp fa-lg
+      href: whatsapp.html
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/bigyanadawahengbam
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/wahengbam-bigyananda-meitei-b960aab3/
+
+output:
+  html_document:
+    theme: paper
+    
+    include:
+      after_body: table.html
+    css: 'styles.css'
+    
