@@ -24,8 +24,3 @@ text-align: justify}
   <span style="color: black;">2. To achieve high carrier growth through continuous learning and keep myself dynamic, visionary and competitive with the changing scenario of the world.</span>
 <br><br>
 
-
-<h5><span style="color: black;"><strong>Research Highlights:</strong></span></h5>
-
-<span style="color: black;"><em><strong>Table</strong></em> : Estimated transition probabilities while moving through the state space, S(t)={0,1,2}. [https://doi.org/10.4236/health.2019.118083](https://doi.org/10.4236/health.2019.118083)</span>
-
